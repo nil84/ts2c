@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import {CProgram} from './src/program';
 import * as ts from 'typescript';
 
